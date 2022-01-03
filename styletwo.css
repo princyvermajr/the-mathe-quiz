@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    font-size: 15px;
+
+}
+#div1{
+    width: 40%;
+    border-top: 30px blue solid;
+    border-radius: 10px;
+}
+#button2{
+    background-color: blue;
+    font-size: 20px;
+    border-radius: 5px;
+    border:5px black solid;
+    color: white;
+}
+#input3{
+    width: 800px;
+    height: 20px;
+}
+#input4{
+    width: 800px;
+    height: 20px;
+}
